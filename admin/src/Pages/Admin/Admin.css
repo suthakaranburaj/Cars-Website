@@ -1,0 +1,17 @@
+/* Admin.css */
+
+.admin {
+  display: flex;
+  height: 100vh;
+}
+
+.admin .sidebar {
+  flex: 0.2;
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+.admin .routes {
+  flex: 0.8;
+  padding: 20px;
+}

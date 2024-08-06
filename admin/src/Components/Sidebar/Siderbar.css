@@ -1,0 +1,22 @@
+/* Sidebar.css */
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  .sidebar a {
+    color: black;
+    margin-bottom: 20px;
+  }
+  
+  .sidebar-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .sidebar-item img {
+    height: 20px;
+    margin-right: 10px;
+  }
